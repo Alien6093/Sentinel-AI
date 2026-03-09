@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+cryptography
+PyJWT
+scikit-learn
+psutil
+watchdog
+pandas
+requests
+streamlit
